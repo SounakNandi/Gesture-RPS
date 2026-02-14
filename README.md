@@ -2,13 +2,6 @@
 
 Rock Paper Scissors game using Object Detection (Hand Tracking) with OpenCV and MediaPipe.
 
-## Features
-
-- Real-time gesture recognition (Rock, Paper, Scissors).
-- Modern GUI using PyQt6.
-- Interactive status bars and score tracking.
-- Touchless controls (Start/Reset via gestures).
-
 ## Installation
 
 ```bash
