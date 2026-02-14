@@ -1,4 +1,4 @@
-# Rock_Paper_Scissors_Object_Detection
+# 🖐️ Gesture-RPS
 
 Rock Paper Scissors game using Object Detection (Hand Tracking) with OpenCV and MediaPipe.
 
@@ -33,10 +33,10 @@ The system uses the `HandTrackingModule` from `cvzone` to detect the number of f
 
 ## Project Structure
 
-- `app.py`: Modern PyQt6 UI version.
-- `logic.py`: Core game engine and gesture processing.
+- `app.py`: Main application script with UI and core logic.
+- `assets/`: Directory containing game resources and assets.
 - `requirements.txt`: Project dependencies.
 
----
+## Credits
 
-Developed by [SOUNAK NANDI](https://github.com/SounakNandi)
+Made with ❤️ by some cool guy [SOUNAK NANDI](https://github.com/SounakNandi)
