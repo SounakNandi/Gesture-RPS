@@ -1,0 +1,8 @@
+numpy==1.26.4
+mediapipe==0.10.11
+cvzone==1.6.1
+opencv-python
+pymsgbox
+customtkinter
+pillow
+PyQt6
